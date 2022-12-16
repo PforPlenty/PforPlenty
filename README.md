@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PforPlenty
+- 👀 I’m interested in new things
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me...Maybe there's a way to message me in github? I'm not ready to put other contact info out here yet. 
